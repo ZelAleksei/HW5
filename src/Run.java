@@ -22,7 +22,7 @@ public class Run {
      * Функция проверки имени аккаунта
      * @param name - имя введённое пользователем
      * @param bankAccountOwnerName - имя указанное в main
-     * @return - возвразает булево значение результата проверки
+     * @return - возвразает результат проверки
      * @throws ExclusionNameInconsistency - исключение при не совпадении имён
      */
     public static boolean checkName(String name, String bankAccountOwnerName)
