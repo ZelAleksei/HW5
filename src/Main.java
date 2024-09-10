@@ -1,5 +1,5 @@
 public class Main {
-    public static void main(String[] args) throws ExclusionNameInconsistency, ExclusionOfInsufficientFunds {
+    public static void main(String[] args) throws ExceptionNameInconsistency, ExceptionOfInsufficientFunds {
 
         String bankAccountOwnerName = "Вася";
         float bankAccountBalance = 10000;
